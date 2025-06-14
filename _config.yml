@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiangfei Xie"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data Scientist | MEng Computer Science | MS Business Analytics"
+  location         : "Cincinnati, Ohio"
+  employer         : "University of Cincinnati"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hsiehxxf@gmail.com" 
 
   # Academic websites
   academia         : # URL
